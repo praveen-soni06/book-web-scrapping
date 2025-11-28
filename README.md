@@ -1,2 +1,3 @@
 # book-web-scrapping
-📚 Book Web Scraping Using Python  A complete web scraping project that extracts book information from the website Books to Scrape using Python, Requests, BeautifulSoup, and Pandas. The scraper collects data across 50 pages and generates a structured dataset containing book details such as title, price, rating, availability,
+📚 A Python-based web scraper that extracts book details from Books to Scrape using Requests, BeautifulSoup, and Pandas. Collects titles, prices, ratings, availability, and links across 50 pages. Includes error handling and outputs a clean dataset for analysis or ML tasks.
+
